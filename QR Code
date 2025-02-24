@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connect with Jayde Hudgins</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .link-container {
+            margin-top: 20px;
+        }
+        .link-container a {
+            display: block;
+            margin: 10px auto;
+            padding: 15px;
+            width: 80%;
+            max-width: 300px;
+            background-color: #ffcc00;
+            color: #000;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .link-container a:hover {
+            background-color: #ffaa00;
+        }
+    </style>
+</head>
+<body>
+    <h1>Connect with Jayde Hudgins</h1>
+    <div class="link-container">
+        <a href="https://www.linkedin.com/in/jaydehudgins" target="_blank">LinkedIn</a>
+        <a href="https://www.instagram.com/yellowscholars" target="_blank">Instagram</a>
+        <a href="https://www.yelloscholars.org" target="_blank">Yellow Scholars</a>
+    </div>
+</body>
+</html>
